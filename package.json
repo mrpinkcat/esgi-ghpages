@@ -1,0 +1,22 @@
+{
+  "name": "esgi-tp-github-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrpinkcat/esgi-ghpages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrpinkcat/esgi-ghpages/issues"
+  },
+  "homepage": "https://github.com/mrpinkcat/esgi-ghpages#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

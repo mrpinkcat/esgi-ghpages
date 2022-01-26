@@ -1,3 +1,3 @@
 const colors = require('colors');
  
-console.log('Green text !!!'.green);
+console.log('Green text !!!'.red);
